@@ -1,5 +1,7 @@
 # Efficient Particle-Based Fluid Surface Reconstruction Using Mesh Shaders and Bidirectional Two-Level Grids
 
+![](https://i3dsymposium.org/2024/img/paper_thumbnails/06_01_nishidate.jpg)
+
 Yuki Nishidate and Issei Fujishiro. 2024. Efficient Particle-Based Fluid Surface Reconstruction Using Mesh Shaders and Bidirectional Two-Level Grids. Proc. ACM Comput. Graph. Interact. Tech. 7, 1, Article 1 (May 2024), 14 pages. https://doi.org/10.1145/3651285
 
 # Build
