@@ -5,12 +5,11 @@ Yuki Nishidate and Issei Fujishiro. 2024. Efficient Particle-Based Fluid Surface
 # Build
 
 ```sh
-# Clone
-git clone ... --recursive
-
-# Pull zip file using Git LFS (Please install)
-git lfs install
-git lfs pull
+# Clone (Maybe it will take a long time)
+# If you get an error, try installing Git LFS
+git clone https://github.com/yknishidate/mesh_shader_surface_reconstruction
+cd mesh_shader_surface_reconstruction
+git submodule update --init --recursive
 
 # !IMPORTANT!
 # Please unzip the contents of 'asset/FluidBeach.zip' under 'asset/'
